@@ -1,0 +1,4 @@
+- 👋 Hi, I’m DogE
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Android Development
+- 📫 Reach me on Instagram: @anujs27
